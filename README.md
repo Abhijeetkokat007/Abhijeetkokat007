@@ -1,7 +1,7 @@
 <img alt="profile" width="900" src="https://i.pinimg.com/originals/c9/f7/16/c9f7169617bb9400cf5bdaaf951a90ef.gif"/>
 
 <h1 align="center">Hi 👋, I'm Abhijeet Kokat</h1>
-<h3 align="center">Computer Engineering</h3>
+<h3 align="center">Full-Stack Developer</h3>
 
 <img align="right" alt="code" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif"/>
 
